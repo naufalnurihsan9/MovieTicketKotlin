@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624791191128",
+    "project_id": "ticketappkotlin",
+    "storage_bucket": "ticketappkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624791191128:android:c35fc1b418349bbd85942d",
+        "android_client_info": {
+          "package_name": "com.naufalnurihsan.ticketappkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624791191128-93vkehv3n1mp5en2gg6ujes937qnhdim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrxVuPBfCiju7qHHQqZgX2_G3YqyxDEig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624791191128-93vkehv3n1mp5en2gg6ujes937qnhdim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
